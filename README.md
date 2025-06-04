@@ -1,4 +1,5 @@
 # odin-recipes
+# HTML creation
 1st Project of Odin Project Foundation
 Using HTML code to build a recipes website
 
@@ -8,5 +9,7 @@ improvement going forward is to commit as
 I go along and not just all at the end.
 
 Also then realised I wrote the commit message
-slighlty wrong, should have said update not 
+slightly wrong, should have said update not 
 updated.
+
+# CSS addition
