@@ -12,13 +12,42 @@ body {
 h1{
     padding: 2px;
     margin: 2px;
+    font-family: 'Courier New', Courier, monospace;
 }
+
+h2{
+    padding: 20px;
+    margin: 20px;
+    font-family: Georgia, Times, serif;
+}
+
+h3{
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 16px;
+    margin: 0% 10% 0% 10%;
+}
+
+ul{
+    margin: 0% 10% 0% 10%;
+}
+ol{
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
 div{
     display: block;
     width: auto;
-    height: 5px;
-    padding: 5px;
+    height: 2px;
+    padding: 2px;
     margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 /* Class Styles */
@@ -29,6 +58,17 @@ div{
     padding: 5px 5px 5px 5px;
 }
 
+.ingredients{
+    display: block;
+    margin: 2px 2px 2px 2px;
+
+}
+
+.steps
+{
+    display: block;
+    margin: 2px 2px 2px 2px;
+}
 /* ID Styles */
 #image {
     display: block;
@@ -42,6 +82,7 @@ div{
 /* Hyperlink Styles */
 a{
     font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
 }
 a:link{
     color: #f12222;
