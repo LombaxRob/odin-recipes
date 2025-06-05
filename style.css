@@ -33,7 +33,9 @@ p{
 }
 
 ul{
-    margin: 0% 10% 0% 10%;
+    text-align: justify;
+    margin-left: 40%;
+    margin-right: 40%;
 }
 ol{
     text-align: justify;
