@@ -13,3 +13,13 @@ slightly wrong, should have said update not
 updated.
 
 # CSS addition
+Going back to this project and adding style
+making use of CSS.
+
+Able to implement CSS and remembered basics
+from university and have got better at using
+git and github.
+
+Will need to come back and refine the use of
+the cascade and box models, with lists being
+the most obvious fix.
