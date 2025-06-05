@@ -1,6 +1,7 @@
 /* All used to check boxes */
 * {
     outline: 2px black;
+    box-sizing: border-box;
 }
 
 /* Element styles */
@@ -8,6 +9,8 @@ body {
     background-color: #000000;
     color: #FFFFFF
 }
+
+
 
 h1{
     padding: 2px;
@@ -33,11 +36,13 @@ p{
 }
 
 ul{
+    display: inline-block;
     text-align: justify;
     margin-left: 40%;
     margin-right: 40%;
 }
 ol{
+    display: inline-block;
     text-align: justify;
     margin-left: 20%;
     margin-right: 20%;
@@ -56,8 +61,6 @@ div{
 .center {
     display: block;
     text-align: center;
-    text-justify: auto;
-    padding: 5px 5px 5px 5px;
 }
 
 .ingredients{
